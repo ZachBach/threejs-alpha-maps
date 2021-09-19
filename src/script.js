@@ -68,7 +68,7 @@ pointLight.color.set(col.color)
  * Sizes
  */
 const sizes = {
-    width: window.innerWidth,
+    width: window.innerWidth * .9,
     height: window.innerHeight
 }
 
